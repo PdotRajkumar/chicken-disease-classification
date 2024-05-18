@@ -21,7 +21,8 @@ list_of_files = [
     "setup.py",
     "config/config.yaml",
     "params.yaml",
-    "dvc.yaml"
+    "dvc.yaml",
+    "templates/index.html"
     
     
     
